@@ -24,8 +24,7 @@ E3 Technologies Pvt Ltd has filed over **13 novel patents** in EV &AI  & is gear
 
 ## 📌 Guidelines & Resources
 
-- [Contribution Guidelines](./CONTRIBUTING.md)
-- [Repository Naming Rules](./CONTRIBUTING.md#repository-naming)
+- [Contribution Guidelines](../CONTRIBUTING.md)
 - [Issue Templates](./.github/ISSUE_TEMPLATE/)
 
 ## 💬 Contact
