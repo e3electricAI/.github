@@ -1,4 +1,4 @@
-# 🏢 E3 Technologies Pvt Ltd
+# E3 Technologies Pvt Ltd
 
 Welcome to the official GitHub organisation for **E3 Technologies Pvt Ltd**, also known as **E3 Electric.ai**.
 
